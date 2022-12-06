@@ -1,7 +1,7 @@
 # _Javascript Codesandbox Projects_
 
 ## _[01 Accordion](https://accordion-using-js.netlify.app/)_ 🔗
-![Screenshot (91)](https://user-images.githubusercontent.com/91872149/199928163-4dbf7b50-6e0e-4f12-bc1f-5d222e4fa9cb.png)
+![image](https://user-images.githubusercontent.com/91872149/205884127-62a3f115-7c21-43c9-a8c4-61b6fc1d53c1.png)
 
 
 ## _[02 NameConversion](https://colorchanger-using-js.netlify.app/)_ 🔗
