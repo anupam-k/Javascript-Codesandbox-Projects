@@ -13,8 +13,7 @@
 ![image](https://user-images.githubusercontent.com/91872149/205883978-d277a550-eb75-4b08-927f-c3f29e8eaf10.png)
 
 ## _[04 PasswordGenerator](https://passwordgenerate-js.netlify.app)_ 🔗
-[Screenshot 2022-12-21 170458](https://user-images.githubusercontent.com/91872149/208896236-0f900680-9adc-4c2f-b89b-6590d337a257.png)
-
+![Screenshot 2022-12-21 170458](https://user-images.githubusercontent.com/91872149/208896481-fdfeb47c-592b-4632-a313-9545e511acf7.png)
 
 ## _[05 RockPaperScissor](https://accordion-using-js.netlify.app/)_
 
