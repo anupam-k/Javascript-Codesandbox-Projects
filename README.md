@@ -18,7 +18,7 @@
 ## _[05 RockPaperScissor](https://js-rock-paper-scissor.netlify.app/)_ 🔗
 ![rps](https://user-images.githubusercontent.com/91872149/208897677-1968bd54-92d6-4579-b91a-6c0bf6fda509.png)
 
-## _[07 QRCodeGenerator - API]_ 🔗
+## _[07 QRCodeGenerator - API](https://qrgenerator-js.netlify.app/)_ 🔗
 
 ## _[08 ShadeUp]_ 🔗
 
