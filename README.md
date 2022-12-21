@@ -19,6 +19,7 @@
 ![rps](https://user-images.githubusercontent.com/91872149/208897677-1968bd54-92d6-4579-b91a-6c0bf6fda509.png)
 
 ## _[07 QRCodeGenerator - API](https://qrgenerator-js.netlify.app/)_ 🔗
+![qr](https://user-images.githubusercontent.com/91872149/208898386-f7fd5b07-2a68-48f5-a84d-4fbcf05c9120.png)
 
 ## _[08 ShadeUp]_ 🔗
 
