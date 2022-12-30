@@ -2,6 +2,14 @@
 <img src="https://img.shields.io/badge/Projects-Javascript-yellow" /> <img src="https://img.shields.io/badge/Course-Full%20Stack%20JavaScript%20Web%20Developer%20Bootcamp-blue" /> <img src="https://img.shields.io/badge/Instructor-Hitesh%20Chowdhary%20Sir-green" /><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Codesandbox-000000?style=flat&logo=CodeSandbox&logoColor=white" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
 
+# _Projects & Links_
+
+| **_Sr. No._** | **_01_** | **_02_** | **_03_** | **_04_** | **_05_** | **_06_** | **_07_** | **_08_** | **_09_** | **_10_** |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **_Project_** | **_Accordian_** | **_Name Conversion_** | **_Colour Changer_** | **_Password Generator_** | **_Rock Paper Scissor_** | **_QR Code Generator_** | **_ShadeUp_** | **_Click The Button_** | **_See What You Type_** | **_Calculator_** |
+| **_Links_** |  **_[Link](https://accordion-using-js.netlify.app/)_**  | **_[Link](https://name-conversion-using-js.netlify.app/)_** | **_[Link](https://colorchanger-using-js.netlify.app/)_** | **_[Link](https://passwordgenerate-js.netlify.app/)_** | **_[Link](https://js-rock-paper-scissor.netlify.app/)_** | **_[Link](https://qrgenerator-js.netlify.app/)_** | **_[Link](https://js-shadeup-colour.netlify.app/)_** | **_[Link](https://clickthebuttonjs.netlify.app/)_** | **_[Link](https://illustrious-kangaroo-455f98.netlify.app/)_** | **_[Link](https://calculate-in-js.netlify.app/)_** |
+
+# _Projects & Screenshots_
 ## _[01 Accordion](https://accordion-using-js.netlify.app/)_ 🔗
 
 ![image](https://user-images.githubusercontent.com/91872149/205884127-62a3f115-7c21-43c9-a8c4-61b6fc1d53c1.png)
