@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/Projects-Javascript-yellow" /> <img src="https://img.shields.io/badge/Course-Full%20Stack%20JavaScript%20Web%20Developer%20Bootcamp-blue" /> <img src="https://img.shields.io/badge/Instructor-Hitesh%20Chowdhary%20Sir-green" /><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Codesandbox-000000?style=flat&logo=CodeSandbox&logoColor=white" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
 
-# _Projects & Links_
+# _Projects & Live Links_
 
 | **_Sr. No._** | **_01_** | **_02_** | **_03_** | **_04_** | **_05_** | **_06_** | **_07_** | **_08_** | **_09_** | **_10_** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
